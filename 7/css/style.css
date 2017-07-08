@@ -1,0 +1,12 @@
+sub {
+  color: blue;
+  font-style: normal;
+}
+sup {
+  color: red;
+  font-style: normal;
+}
+.border {
+  border-style: dashed;
+  width: 275px;
+}

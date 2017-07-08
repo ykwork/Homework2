@@ -1,0 +1,15 @@
+h2 {
+  color: white;
+  background-color: red;
+  width: 100px;
+}
+.first {
+  background-color: darkblue;
+  width: 250px;
+  height: 50px;
+}
+.second {
+  background-color: yellow;
+  height: 40px;
+  width: 250PX;
+}
